@@ -1,0 +1,697 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian temper: or, The quiet state of mind that God's servants labour for Set forth in a sermon at the funeral of Mrs. Ursula Collins. By D.B.</title>
+            <author>Burgess, Daniel, 1645-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30274</idno>
+            <idno type="STC">Wing B5699</idno>
+            <idno type="STC">ESTC R213107</idno>
+            <idno type="EEBO-CITATION">99825613</idno>
+            <idno type="PROQUEST">99825613</idno>
+            <idno type="VID">29999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29999)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1791:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian temper: or, The quiet state of mind that God's servants labour for Set forth in a sermon at the funeral of Mrs. Ursula Collins. By D.B.</title>
+                  <author>Burgess, Daniel, 1645-1713.</author>
+               </titleStmt>
+               <extent>[14], 49, [9] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst at the Bible and Three Crowns, at the lower end of Cheapside, and Robert Gibbs at the Golden Ball in Chancery-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: D. Burgess.</note>
+                  <note>Reproduction of the original in the Congregational Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Collins, Ursula, d. 1688 --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29999:1" rendition="simple:additions"/>
+            <p>THE Chriſtian Temper: OR, The Quiet State of Mind that God's Servants Labour for. Set forth in a Sermon at the Funeral of Mrs. <hi>Urſula Collins.</hi> By <hi>D. B.</hi>
+            </p>
+            <q>
+               <l>Ah, my <hi>dear</hi> angry Lord!</l>
+               <l>Since thou doſt <hi>Love,</hi> yet <hi>Strike;</hi>
+               </l>
+               <l>
+                  <hi>Caſt down,</hi> but <hi>Help afford;</hi>
+               </l>
+               <l>Sure I will do the Like.</l>
+               <l>I will <hi>Complain,</hi> and <hi>Praiſe;</hi>
+               </l>
+               <l>
+                  <hi>Bewail,</hi> but yet <hi>Approve;</hi>
+               </l>
+               <l>And, all my <hi>ſour-ſweet</hi> days,</l>
+               <l>I will <hi>Lament</hi> and <hi>Love.</hi>
+                  <bibl>
+                     <hi>Herbert.</hi>
+                  </bibl>
+               </l>
+            </q>
+            <q>
+               <l>—Tho' I am quite forgot,</l>
+               <l>
+                  <hi>Let me not Love thee,</hi> if I Love thee not!</l>
+               <bibl>
+                  <hi>Idem.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns,</hi> at the lower end of <hi>Cheapſide,</hi> and <hi>Robert Gibbs</hi> at the <hi>Golden Ball</hi> in <hi>Chancery-Lane.</hi> 1688.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:29999:2"/>
+            <pb facs="tcp:29999:2"/>
+            <head>TO Mr. <hi>Joſeph Collins.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have complyed with your Deſire and your Neighbours, as <hi>far</hi> and as <hi>ſoon</hi> as I have been able. You have the Sermon deſired, for ſubſtance. Tho' not in every particular as it was delivered. A difference, I think, ought to be between <hi>Preaching</hi> and <hi>Writing.</hi> Or, if not, my Memory ſerved me not to give it you otherwiſe. You better know my Em<g ref="char:EOLhyphen"/>ployments, than to accuſe me of ſlow<g ref="char:EOLhyphen"/>neſs. I wiſh I were as free from the blame of too much Haſte with it.</p>
+            <p>Such as it is, you will accept it, I know, at my hand. 'Tis followed with my Prayer that it may not be Uſeleſs to Your ſelf, and to others as Craving for it. The Print of Sermons in the <hi>Heart</hi> and <hi>Life,</hi> is that which muſt
+<pb facs="tcp:29999:3"/>make them <hi>Uſeful;</hi> or <hi>Harmleſs</hi> it ſelf. Its Argument is of the moſt ſeaſona<g ref="char:EOLhyphen"/>ble for us all. And more eſpecially for You. So heavenly a Yoke-fellow can<g ref="char:EOLhyphen"/>not be quietly parted with, without a need of Faith's being ſtrengthned by ſome ſuch word. Your own feelings I preſume do ſo certify you, better than any Lines of mine can do.</p>
+            <p>O Sir, induſtriouſly <hi>Imitate</hi> that Piety which you juſtly <hi>Praiſe.</hi> And take into your <hi>Heart</hi> the Truths you Longed to have in your <hi>eye.</hi> So ſhall it not repent you of asking, nor me of granting them unto you. I commend you to divine grace and tuition, as</p>
+            <closer>
+               <signed>
+                  <hi>Yours in much Love unfeigned.</hi> D. Burgeſs.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:29999:3"/>
+            <head>To my Friends of troubled Spi<g ref="char:EOLhyphen"/>rits, in the Countrey.</head>
+            <p>
+               <hi>YOU are</hi> Many: <hi>Altho' it be eve<g ref="char:EOLhyphen"/>ry one's word,</hi> 
+               <q rend="inline">I am Alone, and I am Like no body.</q> 
+               <hi>My Miniſtrations unto you by</hi> Speech, <hi>are at an end. That I ſerved you no better when I was with you, is a ſor<g ref="char:EOLhyphen"/>row that I ſhall go in unto my Grave. Notwithſtanding all your good Opini<g ref="char:EOLhyphen"/>ons, Thanks,</hi> &amp;c. <hi>But I am not a<g ref="char:EOLhyphen"/>ble by ſo frequent</hi> Letters <hi>as you deſire, to Gratifie you and Relieve my ſelf. My</hi> Hands <hi>are full, my</hi> Eyes <hi>are weak, and my actuative</hi> Graces <hi>be not propor<g ref="char:EOLhyphen"/>tionately Strong. Proportionately to my Work in my preſent Place, I mean.</hi>
+            </p>
+            <p>
+               <hi>For this cauſe I would that this</hi> Ser<g ref="char:EOLhyphen"/>mon <hi>may paſs for an</hi> Epiſtle <hi>unto each of you. And that every one of you may read it, as ſuppoſing it written</hi> pecu<g ref="char:EOLhyphen"/>liarly <hi>for himſelf. [As alſo the other</hi>
+               <pb facs="tcp:29999:4"/>ſmall Scripts, <hi>wherewith I have cared to have it joined.] Miniſterial</hi> ſer<g ref="char:EOLhyphen"/>vices <hi>are</hi> not <hi>effectual or the contrary, according unto Miniſters</hi> intentions. <hi>But if they were, you would fare as well as any, in the uſe of mine. For tho' I Love my preſent Congregation as my own Soul, I do unfeignedly Love your ſelves as them. More I cannot, and leſs I do not.</hi>
+            </p>
+            <p>
+               <hi>I do my ſelf</hi> ſuſpect <hi>it; and by o<g ref="char:EOLhyphen"/>thers, I believe, it will be</hi> determi<g ref="char:EOLhyphen"/>ned, <hi>that that affection of mine hath out-run my Judgment in treating you thus in this corner. But I have bid my ſelf follow his ironical counſel, who lately ſaid to me,</hi> "Go on with thy uſeful Indiſcretions. <hi>Biſhop</hi> Hall's <hi>words, are a wind that I think to have blown me good. Divine goodneſs (ſaith he) Loves the</hi> Strength <hi>and paſſes over the</hi> Infirmities <hi>of good Affections. It par<g ref="char:EOLhyphen"/>dons the Errors of our</hi> Fervency <hi>rather than the Indifferencies of our</hi> Luke<g ref="char:EOLhyphen"/>warmneſs <hi>If by any innocent means I may be</hi> Uſeful, <hi>unto others be the Praiſe of being</hi> Diſcreet.</p>
+            <pb facs="tcp:29999:4"/>
+            <p>
+               <hi>Indeed I have commended in this Ser<g ref="char:EOLhyphen"/>mon three Books which may make needleſs this Sermon it ſelf. And any Additament. I mean Mr.</hi> Burroughs <hi>of Content, Mr.</hi> Richard Alleine <hi>of Heart-work, and Dr.</hi> Bates <hi>of Reſignation. Works, that praiſe their great</hi> Authors, <hi>enrich their ſerious</hi> Readers, <hi>ſhame and condemn their</hi> Neg<g ref="char:EOLhyphen"/>lecters.</p>
+            <p>
+               <hi>But I ſo well know the Guſt and Appe<g ref="char:EOLhyphen"/>tite, and Digeſtion of your Spirits, that I ſhall ſet before you the following</hi> Memo<g ref="char:EOLhyphen"/>randums. <hi>And not retract my requeſt of your conning my plain Sermon. Againſt the</hi> Invaſions <hi>of your Unquietneſs; againſt it's</hi> Abode <hi>in you, and it's</hi> Prevalence <hi>over you, remember ye,</hi>
+            </p>
+            <p>
+               <hi>M.</hi> 1. He muſt turn his Eye in<g ref="char:EOLhyphen"/>ward, that would judge right of any thing outward. <hi>Self-ignorance, is the great hindrance of Self-denial. The want of Self-denial is the great cauſe of all Contending with God and Diſtracting our ſelves. Could I but deny my Self, my own Wiſdom and my own Will, I ſhould never know a Reſtleſs hour more. To do
+<pb facs="tcp:29999:5"/>this, my way is to be looking often into my ſelf. To ſit and conſider: What am I? I was firſt,</hi> Nothing. <hi>Then,</hi> Duſt. <hi>Then, a</hi> Body. <hi>Then, a</hi> Body and Soul, <hi>and that</hi> Holy and Happy. <hi>Then, a Body and Soul</hi> Corrupted <hi>and</hi> Curſed. <hi>Then,</hi> Sanctified, <hi>thro' my Redeemer's Blood and by his Spirit.</hi> Imperfectly Sanctified. <hi>Of my ſelf I never was, am, or can be, but</hi> Nothing <hi>or</hi> Worſe. <hi>Evil, the worſt I do deſerve. Good, the leaſt I cannot deſerve,</hi> &amp;c. <hi>Now am I ſuch a Thing? Can I deſerve nothing? Why then I will quietly bear any thing. For I ſee, I am a thing that wrong cannot be done to by God. The truth is; till we conclude God</hi> cannot <hi>wrong us, we ſhall ſurmiſe in every trouble of ours that He</hi> doth <hi>wrong us. And till we well Un<g ref="char:EOLhyphen"/>derſtand our ſelves, we ſhall never believe but that we are things to which God</hi> owes <hi>ſomewhat. And muſt do us a great deal of wrong, if He make not</hi> good payment <hi>too.</hi>
+            </p>
+            <p>
+               <hi>M.</hi> 2. He that would be carryed without falling, muſt bridle his Horſe
+<pb facs="tcp:29999:5"/>before he Mounts. <hi>In all our ways, we are carried by our</hi> Thoughts. <hi>They are the Horſes whereon we travel. As they go Orderly or Diſorderly, ſo we ride proſperouſly in Grace and Peace, or fall ſhamefully from both. But ſo it is with them, that reſtrain'd and bridled by the Word of God, they go orderly and well. If they are let to have their heads, and have not the governing bridle put on them, they are ſure to go as ill. No Sin or Grace, no Sorrow or Comfort ſtirs but in and by theſe Thoughts. Now, if before we aſcended to make judgment of any E<g ref="char:EOLhyphen"/>vent befalling us, we took the courſe a<g ref="char:EOLhyphen"/>foreſaid; we ſhould loſe a thouſand</hi> Plagues <hi>by the year in our Spirits, and find as many</hi> Comforts <hi>by it. Sinful and ſorrowful</hi> Ways <hi>can never be left, till like</hi> Thoughts <hi>be left.</hi> Iſa. 55.7. <hi>Ungoverned topping Thoughts undo Man<g ref="char:EOLhyphen"/>kind.</hi> 1 King. 18.28. <hi>Why halt you 'twixt two domineering Thoughts? ſo the Hebrew. Unleſs my</hi> (<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>unruly, high, and head-ſtrong Thoughts be caſt down by Gods Word; as</hi> 2 Cor. 10.5.
+<pb facs="tcp:29999:6"/>I ſhall conſume my ſelf with vexing at his work in the World. Thoughts do rend <hi>me,</hi> when I do not rule <hi>them.</hi>
+            </p>
+            <p>M. 3. <hi>He that would not be Ship<g ref="char:EOLhyphen"/>wrackt, ſhould not let his Veſſel be Empty, or Over-laden.</hi> They ſhall never want wo, who have too <hi>much</hi> or to <hi>lit<g ref="char:EOLhyphen"/>tle</hi> to do. Who are either <hi>Drudges</hi> or <hi>Drones</hi> of their own making. Idleneſs is a <hi>deſerving</hi> cauſe of trouble, and a <hi>working</hi> one. It provokes God to ſend ſorrow of Heart; and it cauſes the Heart it ſelf to create it unto it ſelf. The ſame muſt be ſaid concerning Exceſs in labour. Your <hi>Diligence</hi> delights God. And in it you may expect Comfort from him. Thro' his grace, 'tis a Working cauſe thereof, tho' it be not a Deſerving one. For wot it well, the <hi>Diligent</hi> Soul, (humane frailty allow'd for,) has no duty <hi>Undone</hi> or <hi>Ill<g ref="char:EOLhyphen"/>done?</hi> While the <hi>Drone</hi> has many Un<g ref="char:EOLhyphen"/>done, and the <hi>Drudge</hi> has all Ill-done. In things both ſecular and ſacred, He that does <hi>too much</hi> or <hi>too little,</hi> he ſtabs or ſtarves his own Quiet. He that does <hi>all,</hi> and neither more or leſs, he gives it Nou<g ref="char:EOLhyphen"/>riſhment and Growth.</p>
+            <pb facs="tcp:29999:6"/>
+            <p>M. <hi>4. He that would Fall no lower, let him Lye upon the ground.</hi> 'Tis <hi>Pride,</hi> makes capable of Soul falls and breaches. Men and Angels, both fell and brake themſelves by it. <hi>Humility,</hi> is the ſure way to riſe, and ſafe way to ſhun every fall. Our meek and lowly Sa<g ref="char:EOLhyphen"/>viour ſends the Proud away, &amp; empty. But the Humble he neither ſends away angrily from him, nor keeps ſorrily with him. Hear it, <hi>O Child of ſorrow!</hi> Go to thy God, pray him to make thee as humble as He would have thee. Tell Him, 'tis come already to this paſs with thee; that in thy Heart thou believeſt thy ſelf as truly wor<g ref="char:EOLhyphen"/>thy of <hi>Hell</hi> as any that be in it, and as truly unworthy of any <hi>comfort under the Sun</hi> as any that be under it. And that thou wilt endeavour to juſtifie Him; and take to thy ſelf all the blame, if he never give thee a <hi>Kid</hi> to rejoice here. Or, a <hi>room in Chriſts Manſions,</hi> to joy in hereafter. And that 'tis with profound ſelf-abhorrence, that thou askeſt either from Him. I dare engage, that as ſure as <hi>Adam</hi> fell by aſcending even to be like
+<pb facs="tcp:29999:7"/>God in Omniſciency, thou ſhalt riſe by deſcending thus, and being like Chriſt in Humility. Who ſees it not? The weak but humble ſtalk of Corn ſtands, when the arms of Strong but Lofty Oaks be torn by Tempeſts!</p>
+            <p>M. <hi>5. He muſt not believe what Rebels ſay, who would believe well of what the King does.</hi> We cannot think God good, without thinking all that He does do to be good. 'Tis the ſame judg<g ref="char:EOLhyphen"/>ment we make of his <hi>Nature</hi> and of his <hi>Actions.</hi> Now, He is a great King; but in this old <hi>Adam</hi>'s Rebel-world, He is every where ſpoken againſt. If we take up, what the blind <hi>Paſſions</hi> and wild <hi>Fancies</hi> of men utter againſt Him, we ſhall unavoidably take in black thoughts of Him. He, in his Word, tells us that Sickneſs, Poverty, Perils, Reproaches, Soul-troubles, and all, be but <hi>refining</hi> fires. Take away but our <hi>Droſs.</hi> Do not Hurt, but Benefit and <hi>work for our good.</hi> The World tells us another thing; that they are <hi>conſuming</hi> fires. They <hi>un<g ref="char:EOLhyphen"/>do</hi> us utterly. Better die than bear them.
+<pb facs="tcp:29999:7"/>If God had any Love for us, he would ſuf<g ref="char:EOLhyphen"/>fer a great deal of Sin before He would uſe us ſo, <hi>&amp;c.</hi> Believe this, and farewel to all Reſt in your Spirits. But, is it Peace you would have? This do, you ſhall not miſs of it. <hi>Viz.</hi> Believe what God ſays concerning the World, and not what the World ſays concerning God.</p>
+            <p>M. 6. Laſtly, <hi>Let him learn excel<g ref="char:EOLhyphen"/>lently well to Wreſtle, that would not have any thing to give him a Fall.</hi> E<g ref="char:EOLhyphen"/>very one will trample on a Down-hedge. Let a man be ſunk, and down in his Spi<g ref="char:EOLhyphen"/>rit; unable to riſe and oppoſe; every thing will then ſmite him. His Life ſhall then be all, <hi>between the Hammer and the Anvil.</hi> Every Event ſhall be a Tragedy on his Soul. But if he has but ſtrength enough to get upon his Knees. And on them, humbly to Wreſtle with God in holy Prayer. What then? Why that Commu<g ref="char:EOLhyphen"/>nion with the Almighty, makes a Soul next to Almighty. Yea, in a ſenſe, Al<g ref="char:EOLhyphen"/>mighty. And more than Conqueror, even Triumpher over all his Troubles. It is a certain rule; If our Troubles don't <hi>caſt out</hi>
+               <pb facs="tcp:29999:8"/>or <hi>corrupt</hi> our Prayers, our Prayers will ſurely <hi>caſt out</hi> or <hi>conquer</hi> our Troubles. You can never fall Lower, if you behave your ſelves well upon your Knees!</p>
+            <p>Now the Apoſtle's words deliver my Heart, <hi>Rom. 13.15. The God of Hope fill you with all Joy.</hi> The Joy of <hi>Con<g ref="char:EOLhyphen"/>templation</hi> and of <hi>Expectation</hi> while you are on the earthly Globe, the Joy of <hi>full Poſſeſſion</hi> when your eyes are cloſed. Let mutual <hi>Love</hi> be everlaſting. And mutual <hi>Prayer</hi> be continued, until we aſ<g ref="char:EOLhyphen"/>cend where Thankſgiving and Praiſe take up all. Let theſe Lines be witneſſes of your being continued in the affectionate memory, of</p>
+            <closer>
+               <signed>
+                  <hi>Your compaſſionate Servant in Chriſt Jeſus,</hi> D. Burgeſs.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:29999:8"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſalm 116.7.</hi>
+                  </bibl>
+                  <p>Return unto thy Reſt, O my Soul!</p>
+               </q>
+            </epigraph>
+            <p>THis <hi>Pſalm</hi> is an holy Vow. The Royal Writer, herein bindeth himſelf unto three things. Namely, the Love of God, and his worſhip, <hi>v.</hi> 1, 2. Ho<g ref="char:EOLhyphen"/>ly Life and circumſpect, <hi>v.</hi> 9. Pay<g ref="char:EOLhyphen"/>ment of his Vow, moſt true and pub<g ref="char:EOLhyphen"/>lick, <hi>v.</hi> 13, 14. The remainder of the <hi>Pſalm,</hi> is for moſt part expreſſive of his Motives hereunto.</p>
+            <p>Our departed Friend, ſeemed to have made no ſmall uſe of this Scripture. Many were her Troubles, and many her Deliverances. And very much her heart ran in the
+<pb n="2" facs="tcp:29999:9"/>exemplary ſtrain of <hi>David</hi>'s, that is here recorded. It is now piouſly de<g ref="char:EOLhyphen"/>ſired that ſomewhat be done for helping you her ſurviving Brethren, to ariſe unto an a-like Imitation.</p>
+            <p>Unto that end I ſhall firſt ſet before you, the principal Leſſons that the ſix firſt verſes give forth. And then propoſe, and proſecute alſo the chief<g ref="char:EOLhyphen"/>eſt of them that offer themſelves from the ſeventh verſe. For here are no dark or difficult Phraſes, that call for ſtay in their Explication.</p>
+            <p>L. 1. <hi>Returns of Prayer, make a Soul a Mount of holy Fire.</hi> It is cer<g ref="char:EOLhyphen"/>tain, they made <hi>David</hi> ſo. For thus are his words to be taken; <hi>q. d.</hi> 
+               <q rend="inline">The God whom I Loved, whiles He was making me feel the blows of his hand, and denying me the Kind<g ref="char:EOLhyphen"/>neſs of his ear: I, and did reſolve to Love, tho' He ſlew me: Him do I now Love, as I can neither ſpeak, nor be ſilent of. Now, now that His anſwer to my requeſt is
+<pb n="3" facs="tcp:29999:9"/>come down from Heaven, my heart (I think) is gone up to Heaven. 'Twas comparatively, <hi>Ice</hi> before: 'tis <hi>Flame</hi> now. If my Love before was a <hi>Spark,</hi> 'tis now a <hi>Mount.</hi> The grant of my Prayer, has made a whole burnt-offering of my Perſon. By giving me what I asked, God has took away all my will to ask for any thing elſe but Himſelf.</q> For,</p>
+            <p>L. 2. <hi>God Himſelf is the Object, His Mercies be but the Motives of our Love.</hi> It was Father, Son, and Spirit that <hi>David</hi> Loved. Mercies drew his heart unto the Divine Fountain of them. They took his heart; but they kept it not ſo low as themſelves. They carried it to the right Owner. <hi>I Love the Lord,</hi> not I Love his Deliverances, ſaith the good man; <hi>q. d.</hi> 
+               <q rend="inline">'Tis unto the <hi>Giver,</hi> my affections are drawn by beſt <hi>gifts.</hi> Nor would I count any of them <hi>good,</hi> if they tended not to make my Eſteem and Love of Him <hi>better.</hi> Return of Prayer is another
+<pb n="4" facs="tcp:29999:10"/>kind of thing than the Gold of <hi>Ophir!</hi> But all my Love is too little for Him that makes it. And rather than any of it ſhould be ſtole from Him, I would chuſe to have any Deſire of mine denied by Him. 'Tis Him that I ſtudiouſly Love <hi>in</hi> all things, <hi>for</hi> all things, and <hi>above</hi> all things.</q>
+            </p>
+            <p>L. 3. <hi>The Mercy of one Day, en<g ref="char:EOLhyphen"/>gageth us to Duty all our Days.</hi> It en<g ref="char:EOLhyphen"/>gaged the Pſalmiſt, as the ſecond verſe moſt expreſly ſaith. <hi>Becauſe He hath enclined</hi> [at this time] <hi>his Ear unto me, therefore will I Call upon Him</hi> [or Pay all Duty to Him] <hi>as long as I live; q. d.</hi> 
+               <q rend="inline">The Deliverance that God hath now wrought for me, hath ſenſib<g ref="char:EOLhyphen"/>ly brought Fire, Fuel, and Bellows to the Love of God in me. And for preſent, the coals thereof are coals of Fire, which hath a moſt ve<g ref="char:EOLhyphen"/>hement flame. But this gives me not content, I look forward, and I take care for to morrow. My heart
+<pb n="5" facs="tcp:29999:10"/>is green Wood; and Fire in green Wood doth as eaſily Die, as it doth difficulty come to Live. Above meaſure I think my ſelf engaged, to conſult for the continuance of that Zeal which is eaſier Loſt than firſt Got. And eaſier Kept, than Re<g ref="char:EOLhyphen"/>gain'd. Loſt, I know, it will be, if the divinely appointed means be not uſed to preſerve it. The which means are all Duties. And unto the Uſe of them all my days, I am as much obliged as the very firſt day of my Salvation. I dream not that God's end in it, is to make me Bleſs, Reverence, Truſt, and Serve Him the more, for leſs than all my time. The benefit of the Salvation it ſelf, extends plainly thro' it all. And thro' it all, as in duty bound, I en<g ref="char:EOLhyphen"/>gage my ſelf to that univerſal Obe<g ref="char:EOLhyphen"/>dience, whereof Prayer is the ſo eminent Pillar. The World ſhall ſee, there is a Thankfulneſs that abides unto the Giver, even to the laſt breath of the Receiver.</q>
+            </p>
+            <pb n="6" facs="tcp:29999:11"/>
+            <p>L. 4. <hi>Death and Hell do often Fright, but they never Hurt a good Soul.</hi> The Pſalmiſt ſays, (<hi>verſe</hi> the third,) that <hi>the fears of death,</hi> (to wit, Bodily and Spiritual,) <hi>found him:</hi> and <hi>he found trouble and ſorrow,</hi> (great ſtore) in them. He ſays not, that they miſchie<g ref="char:EOLhyphen"/>ved him. It were eaſie to ſhew that they (both) did him good. He hath elſewhere told us, 'Twas good, (bene<g ref="char:EOLhyphen"/>ficial,) for him that he was Afflicted; (<hi>viz.</hi> in Body and Spirit.) And here it ſelf, he doth, with ſufficient plainneſs, ſpeak the ſame. For in the next verſe theſe are his words, <hi>Then called I on the Name of the Lord:</hi> as if he had ſaid, <q rend="inline">In that my Affliction, I ſought God early. That Hell upon Earth, drave me to Heaven. Mine Eyes had been leſs toward God, if he had not ſet the Image of death upon my Eye<g ref="char:EOLhyphen"/>lids. So many and ſo fervent Prayers had not been put up from my Soul, and for my Soul, if the dread of Death and Hell had not come into my Soul.</q> Memorable is that paſſage
+<pb n="7" facs="tcp:29999:11"/>of worthy Mr. <hi>Shepheard,</hi> I have oft wondred, If Chriſt hath born all our miſeries, and ſuffered death for us, why then ſhould we feel any miſeries, or ſee death any more? And I could never ſatisfie my own heart by many anſwers given, better than by this; <hi>viz.</hi> That if the Lord ſhould aboliſh the <hi>very being</hi> of our miſeries, they ſhould indeed then do us <hi>no hurt:</hi> but nei<g ref="char:EOLhyphen"/>ther could they then do us <hi>any good.</hi> Now the Lord Jeſus hath made ſuch Peace for us, that our Enemies ſhall not only not hurt us, but they ſhall be forced to do us much good. <hi>Wants,</hi> make us pray the more; <hi>Sorrows,</hi> do humble us more; <hi>Temptations,</hi> make us exerciſe graces more; <hi>Deſer<g ref="char:EOLhyphen"/>tions</hi> make us long for Heaven more 'Tis now part of our portion, to have not only <hi>Paul,</hi> and <hi>Apollos,</hi> and <hi>World,</hi> but to have <hi>Death</hi> it ſelf to do us good.</p>
+            <p>L. 5. <hi>The troubles of our Souls, are the Souls of our Troubles. David's,</hi> do
+<pb n="8" facs="tcp:29999:12"/>ſo appear. By the heaps of words that he pileth up to expreſs them, they appear ſo. <hi>Death-ſorrows, Hell-pains, Troubles</hi> and <hi>Sorrows</hi> that <hi>found</hi> him, and <hi>got hold</hi> of him. Oh what a deal of Water can the <hi>Sea</hi> contain more than a <hi>Thimble,</hi> or a <hi>Cockle-ſhell?</hi> And what an a like deal of good and evil is the <hi>Soul</hi> capable of more than the <hi>Body?</hi> And how much more to be pi<g ref="char:EOLhyphen"/>tied is the Soul that is betwixt <hi>Hope</hi> and <hi>Fear</hi> of God's Love, than the Body that is between the <hi>Axe</hi> and the <hi>Block?</hi> [Let the Reader that would ſee more of this, ſee the unparallellable Mr. <hi>Ro. Bolton</hi> upon <hi>Prov.</hi> 18.14.</p>
+            <p>L. 6. <hi>In the Fire and Water, there's nothing like holy Prayer. David</hi> was in them both, with the witneſs: and in them, as the beſt courſe he could take, he prays. <hi>Then called I on the Name of the Lord!</hi> O Lord, I beſeech thee, deli<g ref="char:EOLhyphen"/>ver my Soul! <hi>q.d.</hi> 
+               <q rend="inline">When I was beat off my Legs, I fell upon my Knees. I knew, the heavenly Father uſed to
+<pb n="9" facs="tcp:29999:12"/>ſtrike his Children no lower. Yea, and to ſtrike them for no purpoſe ſo much, as to bring them on their Praying Knees. Unmixed Praiſe is his delight in Heaven: but, upon Earth, 'tis Praiſe with Prayer he delights in. And which he makes the in-let of all his Mercies, and our true Conſolations.</q> They quite miſ<g ref="char:EOLhyphen"/>take their way to welfare, who when they are diſtreſſed, ſit ſtill in <hi>lazy Complaints.</hi> Or go buſie themſelves in <hi>Complotments;</hi> hoping by their own and by borrowed Wiſdom and Power to remove the Mountains that lay on their hearts. <hi>Idleneſs,</hi> and <hi>carnal Acti<g ref="char:EOLhyphen"/>vity,</hi> ſink us deeper into ſorrows; they never take us out. But <hi>Prayer</hi> ho<g ref="char:EOLhyphen"/>nours God, and God honours Prayer. No want is ſo great, but He can ſup<g ref="char:EOLhyphen"/>ply it: and there's no Soul that Prays in Faith, but may be ſure He will ſup<g ref="char:EOLhyphen"/>ply it. Is his <hi>Power</hi> only Infinite? no, his <hi>Goodneſs</hi> that makes <hi>Promiſes,</hi> and his <hi>Truth</hi> that keeps them, be fully as Infinite as that Power it ſelf is. What,
+<pb n="10" facs="tcp:29999:13"/>therefore, is comparable to Prayer? 'Tis with it, and not without it, that Faith <hi>ſubdues worlds of evils, obtains Promiſes, muzzles Lions, quenches Fire, ſcapes the edge of Swords, of weak makes ſtrong.</hi> Nothing can kill a Believer, but that which can ſtop the breath of his Prayer.</p>
+            <p>L. 7. <hi>God's gracious, righteous and merciful Acts, do teach us his gracious, righteous, and merciful Nature.</hi> They taught our Pſalmiſt. He comes from declaring the former, to conclude the latter. He had ſaid what God had Done; and (<hi>verſe</hi> the fifth) he ſays what God is. Namely, <hi>Gracious;</hi> that is, Kind, without any Force or Neceſ<g ref="char:EOLhyphen"/>ſity, and without any Merit or Mo<g ref="char:EOLhyphen"/>tive from without his own heart. <hi>Righteous,</hi> that is, Juſt or Faithful. <hi>Merciful,</hi> that is, forward to help crea<g ref="char:EOLhyphen"/>tures Lying in miſery. Be it obſerved; 'tis the Nature of God, from whence alone, in many caſes, we can draw any Hope or Peace. 'Tis from thence
+<pb n="11" facs="tcp:29999:13"/>alone, as the firſt Fountain, that, in all caſes, we do or can draw it. 'Tis for the Exaltation and Praiſe of his Nature, that he worketh all his works; and that he calleth us to con<g ref="char:EOLhyphen"/>ſider all his works. 'Tis the reproach of his Nature, that Satan, above all things, aimeth and acts for: as that which upholds the Kingdom of Sin in the World. Wherefore, miſerable are they, who cannot ſet ſeal unto this Doctrine. And who do not Learn what God <hi>Is,</hi> from what He <hi>Does.</hi> Their Religion is vain Pageantry, who, while they cry up his Works, do not enamouredly ſee in them, the glory of Him the worker.</p>
+            <p>L. 8. <hi>God is a Believer's own God.</hi> So the Pſalmiſt calls him, OUR GOD. To be ſure, God is at his own Diſpoſal. He can give Himſelf to whom He pleaſeth, to be Theirs in Marriage Covenant for ever. And 'tis as certain, He hath ſo given Himſelf, and all that He Hath, unto ſincere Be<g ref="char:EOLhyphen"/>lievers.
+<pb n="12" facs="tcp:29999:14"/>Who accordingly give them<g ref="char:EOLhyphen"/>ſelves, and all that they Have unto Him. (Of both, <hi>I</hi> ſpeak largely elſe<g ref="char:EOLhyphen"/>where.)</p>
+            <p>L. 9. <hi>The moſt Shiftleſs Saints, have God their Saviour.</hi> The Lord <hi>preſerves the Simple,</hi> ſaith verſe the ſixth. Men of leaſt Policy, are ſaved by Him who is Only Wiſe. They are Preſerved one, or other, or all ways; <hi>viz. From</hi> e<g ref="char:EOLhyphen"/>vils, and <hi>In</hi> them, and <hi>out of</hi> them.</p>
+            <p>L. 10. <hi>Sanctified hearts, remember their Wants, and their Helps.</hi> Davids did ſo: <hi>I was brought Low, and He helped me.</hi> Indeed ſin takes away the heart. Corrupts the mind, Memory, and Will. And lets not him be a <hi>Man,</hi> that will not be a <hi>Saint.</hi> Grace, on the contra<g ref="char:EOLhyphen"/>ry, raiſes the Mind, perfects the Me<g ref="char:EOLhyphen"/>mory, rectifies the Will. And make that he who will be a <hi>Saint,</hi> muſt be very <hi>like an Angel.</hi> That is, Humble and Grateful. <hi>Humble</hi> in ones ſelf <hi>Grateful</hi> unto God. Aſſoon ſhall <hi>Cheru<g ref="char:EOLhyphen"/>bims</hi>
+               <pb n="13" facs="tcp:29999:14"/>ceaſe to remember that once they were <hi>Nothings,</hi> and God raiſed them out of Nothing; as an <hi>Holy Soul</hi> ſhall forget his great Depreſſions, and his Gods Exaltations of him out of them.</p>
+            <p>The <hi>Text</hi> we are now arrived to. And in it you ſee, (do ye not?) theſe Particulars; to wit, (1.) The <hi>Preucher, David</hi>'s Conſcience. (2.) The <hi>Audito<g ref="char:EOLhyphen"/>ry, David's</hi> whole man. (3.) The <hi>Ser<g ref="char:EOLhyphen"/>mon,</hi> an Exhortation to holy Quiet<g ref="char:EOLhyphen"/>neſs preſſed by Gods motive Kindneſs. Many <hi>Doctrines,</hi> here meet us; and chiefly theſe.</p>
+            <p>D. 1. <hi>Good men give themſelves good Lectures. Davids</hi> have their <hi>Chaplains</hi> in their breaſts. And <hi>Preach</hi> unto themſelves. Their own Reins do in<g ref="char:EOLhyphen"/>ſtruct them. And indeed all men's words, and God's too, be unprofitable unto us, till they become the words of our Conſciences unto us. He is an ill man, whoſe Conſcience is a dumb Dog.</p>
+            <pb n="14" facs="tcp:29999:15"/>
+            <p>D. 2. <hi>The beſt of men, do not keep perfectly ſtill, in ſevere ſtorms. David</hi> himſelf did not. This charge, [Re<g ref="char:EOLhyphen"/>turn to thy Reſt,] plainly ſpeaks his Removal from it. And a ſinful Un<g ref="char:EOLhyphen"/>quietneſs, it ſelf. We have heard in<g ref="char:EOLhyphen"/>deed of <hi>Job's Patience</hi> in his Afflicti<g ref="char:EOLhyphen"/>on: and ſo have we heard of his <hi>Im<g ref="char:EOLhyphen"/>patience</hi> too. In that very grace where<g ref="char:EOLhyphen"/>in a good man is <hi>moſt Perfect,</hi> in that it ſelf he is far from being <hi>Le<g ref="char:EOLhyphen"/>gally Perfect.</hi> Our gracious God doth not; and Men ſhould not, let one act, or a few un-allowed acts deno<g ref="char:EOLhyphen"/>minate us; In no man, ſave Him who was God and Man, had ever <hi>Diligence</hi> or <hi>Patience</hi> its Perfect work. In the foreſaid ſenſe, Perfect. We may not call our ſelves Hypocrites, for that which God doth not ſo call us. Perfection is <hi>coveted</hi> by every one that is ſincere; but 'tis not by any one in this Life <hi>attained.</hi> Sin came into us, when our Souls came into our Bodies: and 'twill never go quite out of us till
+<pb n="15" facs="tcp:29999:15"/>our Souls go quite out of them. Happy is he that has no ſin <hi>Reigning</hi> or <hi>Ra<g ref="char:EOLhyphen"/>ging!</hi> Till you are in <hi>Abraham's boſom</hi> you ſhall have ſin <hi>Aſſaulting</hi> and <hi>Afflict<g ref="char:EOLhyphen"/>ing</hi> you. And that in Adverſity, and Proſperity too.—But the Truth I chuſe to inſiſt on is that which follows.</p>
+            <p>D. 3. <hi>Reſt in God is the ſtate of Mind, that's Laboured for by the Chil<g ref="char:EOLhyphen"/>dren of God.</hi> 'Tis that, you ſee, where<g ref="char:EOLhyphen"/>to <hi>David</hi> laboriouſly called and in<g ref="char:EOLhyphen"/>ſtructed his Soul. And the record of it can be thought deſign'd for no<g ref="char:EOLhyphen"/>thing ſo much, as to provoke us to go and do likewiſe. That thus we may the better do, the Propoſition ſhall be briefly <hi>Explain'd</hi> and <hi>Proved</hi> in theſe four Conſiderations.</p>
+            <p>C. 1. <hi>Reſt is the Health. Or the pleaſant Feeling of a Soul United unto, and Enjoying of its ſupreme good.</hi> Two things it importeth; <hi>Life,</hi> and <hi>Peace</hi> Reſt, is not <hi>Death;</hi> nor is it <hi>Rage.</hi> Where there is no Life, there's none
+<pb n="16" facs="tcp:29999:16"/>of the Spiritual Reſt we ſpeak of. Nor any other, but what a Stock or Stone poſſeſſes. Where there is no Peace, it need not be ſaid what a di<g ref="char:EOLhyphen"/>ſtance there is from Reſt. <hi>Raging Life,</hi> ſtands farther from Reſt, than <hi>Dead Peace</hi> it ſelf. A Flint ſtone is nearer to it, than a Furious malecon<g ref="char:EOLhyphen"/>tented man. Soul-reſt, is a lively Peace, and Peaceful Life. And here think diſtinctly; (1.) No <hi>Creature</hi> is or can be its own happy-making good. (2.) All <hi>Living ones</hi> do crave ſuch good, from without themſelves. (3.) God is <hi>all</hi> good. Creatures have nothing, but what He puts and holds in 'em; no virtue to benefit one ano<g ref="char:EOLhyphen"/>ther. (4.) Before the <hi>beſt Union</hi> un<g ref="char:EOLhyphen"/>to God, we cannot have the <hi>beſt good</hi> from Him, By the beſt Union, un<g ref="char:EOLhyphen"/>derſtand <hi>neareſt Relation.</hi> That of <hi>Adopted</hi> Sons and <hi>Covenanted</hi> Servants. By the beſt good, underſtand that which is Spiritual and Eternal. (5.) When we have the beſt good beſtown upon us by God, we are not
+<pb n="17" facs="tcp:29999:16"/>at Reſt in our ſelves preſently. We are not well, till what is Beſtown on us be alſo <hi>Enjoyed</hi> by us. (6.) Enjoy<g ref="char:EOLhyphen"/>ment, is made up of five Ingredients; to wit, <hi>Uſe, Knowledge, Pleaſure, Con<g ref="char:EOLhyphen"/>tent, Security.</hi> We then Enjoy what God Is unto us, and what He alſo Doth for us, when we <hi>Uſe</hi> it for the juſt ends of it. When we duly reflect, and <hi>Diſcern</hi> our ſelves to be in the Poſſeſſion and beſt uſe of thoſe beſt things. When we take <hi>Pleaſure,</hi> and make glad our hearts in the Diſcove<g ref="char:EOLhyphen"/>ry thereof. When we <hi>Content</hi> and ſa<g ref="char:EOLhyphen"/>tisfie our ſelves with that Pleaſure; ſaying, 'Tis Enough, yea 'tis All; we would not, nay, we cannot have it better with us, than Grace hath made it. When, likewiſe, we have, and conſider us to have ſtrong <hi>Security,</hi> for Holding what we Have. (7.) Reſt, is the <hi>State</hi> and <hi>Temper</hi> of a Soul thus enjoying God, through Jeſus Chriſt. It's ſuch a Soul's ſatisfiedneſs; and that in a double reference; to all that God <hi>has yet done,</hi> and all that God
+<pb n="18" facs="tcp:29999:17"/>
+               <hi>ſhall ever do.</hi> A Soul in the Reſt which our Text intends, thus ſpeaketh: <q rend="inline">Lord, I muſt ſpeak as I find. Thou haſt hitherto <hi>done all things well.</hi> I muſt needs <hi>approve,</hi> yea and <hi>applaud</hi> all. I am ſure Thou thy ſelf canſt not <hi>mend</hi> it; for there has been in it no <hi>fault.</hi> I ſhall never forgive my ſelf my treſpaſſes, in the hard thoughts I have had of any thing by Thee done. If I remember them in Heaven, I ſhall there <hi>Bluſh</hi> to all Eternity for them. Lord, for the future I project to be wiſer. I do now let fall <hi>all Conteſt</hi> with Thee, about future Events in this World. I put a Blank in thy hand; write, Lord, thy Pleaſure. Write the <hi>Kind</hi> and Quality of the things that ſhall befal me. Write the <hi>Meaſure</hi> and Quantity of them. Write the <hi>Term</hi> and Continuance of them too! Or<g ref="char:EOLhyphen"/>der my Lot while I ſojourn on Earth, even how Thou pleaſeſt. Thy Will ſhall be my Will. If ever I contradict the former, I ſhall the
+<pb n="19" facs="tcp:29999:17"/>latter too. Thou canſt not do what <hi>ought</hi> to Offend me; or what ought not to Pleaſe me. Nor can I any way do my ſelf hurt, but by unjuſt ſurmiſing that what Thou doſt is not good. I command my ſelf, having Peace with Thee <hi>above,</hi> to maintain Quietneſs for ever <hi>within.</hi> And not admit any thing from without to make a tumult in the Region of my Heart. No, but to behave my ſelf as may ſhew that I do account Thee a ſufficient <hi>Shield</hi> from evil, and <hi>Store</hi> of good. And this, by <hi>walking</hi> on the waves, if Thou calleſt, without <hi>ſinking.</hi> By entring the <hi>Fiery Furnace,</hi> if Thou wilt have me, without <hi>Deſponding.</hi> By <hi>truſting</hi> in Thee, even when Thou appeareſt to <hi>ſlay</hi> me.</q>
+            </p>
+            <p>C. 2. <hi>There's no Perfect Reſt behi<g ref="char:EOLhyphen"/>ther</hi> Abraham<hi>'s boſom.</hi> It is a Truth, denied by none, tho' conſidered duly by few; a ſtate of <hi>Adoption</hi> is a ſtate of Reſt. Upon thy firſt Repentance,
+<pb n="20" facs="tcp:29999:18"/>and Faith, thou art made a Child of God, <hi>John</hi> 1.12. Being his <hi>Child,</hi> thou haſt a <hi>Child's portion.</hi> And to be ſure, <hi>the Children of his houſe are free.</hi> Free from the condemning <hi>Wrath</hi> of God the Law-giver and Judge; free from the Power of <hi>Satan</hi> the Jayler and Exe<g ref="char:EOLhyphen"/>cutioner; free from all the Dominion of <hi>Sin</hi> (that is a worſe Enemy than Satan himſelf;) free from all things that <hi>totally exclude</hi> Reſt. I, and have <hi>all things</hi> that do conſtitute and make the foreſaid Reſt. Who doubts it? they have ſome <hi>Knowledge</hi> of God; ſome <hi>Uſe</hi> of his holy Name, and his Peerleſs Excellencies. Some <hi>Pleaſure</hi> therein, and ſome <hi>Content</hi> therewith. And ſome <hi>Confidence</hi> too of the un<g ref="char:EOLhyphen"/>moveableneſs of their good eſtate. Theſe latter they have ſometimes, and in ſome meaſures: and much more the former. But yet, tho' now we <hi>are</hi> the Children of God, it doth not in this World perfectly <hi>appear.</hi> No, our very Life is <hi>Hid;</hi> and ſo is our Reſt, in great part. Infinite Wiſdom
+<pb n="21" facs="tcp:29999:18"/>ſees good to make a difference of <hi>de<g ref="char:EOLhyphen"/>grees</hi> between Grace and Glory. And to make the ſtate of Glory, one of <hi>all Reſt:</hi> and the ſtate of Grace, one of but <hi>ſome</hi> Reſt. The ſtate of Glory, one of Reſt, <hi>abſolutely:</hi> and the ſtate of Grace, one of Reſt, but <hi>compara<g ref="char:EOLhyphen"/>tively.</hi> I ſay, but comparatively. In compariſon of the <hi>Wilderneſs, Canaan</hi> was a Reſt: but compared unto <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> what was it? True, it flowed with Milk and Hony; but it had alſo Thorns and Briars. Compared to the ſtate of Sin, the ſtate of Grace is Hea<g ref="char:EOLhyphen"/>ven upon Earth; but compare it to Heaven above, and then 'tis <hi>(dicere auſim)</hi> but a Hell upon Earth. Such an Hell, that St. <hi>Auſtin</hi>'s words are known to be true; <q rend="inline">
+                  <hi>Some good men have need of Patience to Live, as much as others have need of Patience to Die.</hi>
+               </q> There want not Reaſons, for God's ſo ordering things. And our Divines have not been ſparing in their ac<g ref="char:EOLhyphen"/>counts of them. I forbear it here: praying only that it be obſerv'd, Di<g ref="char:EOLhyphen"/>ſturbing
+<pb n="22" facs="tcp:29999:19"/>Trouble ſhall as ſoon get up to Heaven, as Undiſturbed Reſt come down to us in this World. Chriſt our Head, had never any <hi>ſinful Sor<g ref="char:EOLhyphen"/>row</hi> indeed: but neither had He, be<g ref="char:EOLhyphen"/>fore his Exaltation, any <hi>ſorrowleſs Comfort</hi> here below. We, imperfectly ſanctified creatures, have neither any Sorrow that is altogether ſinleſs; or any Comfort that is altogether ſor<g ref="char:EOLhyphen"/>rowleſs. One of the Thieves on the Croſs did Blaſpheme, <hi>Mark</hi> 15.31. Our murmuring <hi>Fleſh</hi> and Corrup<g ref="char:EOLhyphen"/>tion, tho' crucified, doth break out. And raiſes, in every ſtate, unquiet and unruly Thoughts. The <hi>World</hi>'s Objects alſo, deceive us with their Emptineſs, and vex us with their Falſeneſs. <hi>Satan,</hi> likewiſe, by Inje<g ref="char:EOLhyphen"/>ctions of his, hath more than a few ways to Diſturb us. In a word, there are four things whereto we are here liable, which make perfect Peace here impoſſible. I mean, Bodily <hi>Diſ<g ref="char:EOLhyphen"/>eaſes,</hi> Mental <hi>Errors,</hi> Divine <hi>Deſer<g ref="char:EOLhyphen"/>tions,</hi> and Satanical <hi>Temptations.</hi> By
+<pb n="23" facs="tcp:29999:19"/>means hereof, the <hi>troubleſom Thoughts</hi> in our minds, are made as numberleſs as the wandring <hi>Atoms</hi> in the Air. And 'tis an imperfect <hi>Patience,</hi> wherein our ſouls are in our beſt days poſſeſſed. A quiet and calm Spirit is in God's ſight a Jewel, for Excellency; in our ſight 'tis a Jewel for Rarity. Nor is it any where found, but abundance of flaws are found in it. Where is Wealth without <hi>Care?</hi> Where is Pleaſure, without <hi>Wearineſs?</hi> Where is Honour or Praiſe, without <hi>Hazard?</hi> Who has Friends, without any <hi>Guile</hi> in them? Who has Relations and no <hi>Croſſes</hi> in them? Who hath found out that Age, that is without it's <hi>Infirmities?</hi> I will ask but once more, and paſs on. Who hath grace without adherent <hi>Corruption,</hi> Hope without <hi>Fear,</hi> and Comforts without <hi>Eclipſes?</hi>
+            </p>
+            <p>C. 3. <hi>There is more perfect Reſt at<g ref="char:EOLhyphen"/>tainable, than what is yet by any of us attained.</hi> The beſt ſouls do often loſe of that which they had. But never
+<pb n="24" facs="tcp:29999:20"/>do they gain all that they may have If any have ſo done, they are <hi>black Swans,</hi> rare Inſtances. Generally, all ſober Chriſtians will grant, they Need more than they have. Nor will they dare to ſay, that their Di<g ref="char:EOLhyphen"/>ligence in <hi>time paſt</hi> could not have gain'd more. Or that their holy Induſtry <hi>from this time</hi> will not gain more. All ſincere Converts, do <hi>en<g ref="char:EOLhyphen"/>ter into Reſt.</hi> They paſs <hi>Jordan,</hi> they ſet their feet on <hi>Canaan.</hi> Nor is it God's will that they ſhould keep by the Rivers ſide. He gives them <hi>Eyes</hi> and <hi>Feet.</hi> Underſtanding, and ſtrength And commands them to uſe both for getting further up into the Plea<g ref="char:EOLunhyphen"/>ſant Land. Every Believer, upon his firſt Union unto Chriſt, makes God name his <hi>ſtrong tower.</hi> He runs into it, and he Reſts in it. But how? In<g ref="char:EOLunhyphen"/>to the outer parts he runs, and in but ſmall part, comparatively, he Reſts. Now God ſaith not, <hi>Hither<g ref="char:EOLunhyphen"/>to ſhalt thou come, and no ſtep further</hi> But contrarily; He calls to come far<g ref="char:EOLhyphen"/>ther
+<pb n="25" facs="tcp:29999:20"/>in, into the <hi>Chambers of purer Peace and Reſt, Iſa.</hi> 26.20. I, and to advance toward the fulneſs of Joy, 1 <hi>John</hi> 1.4.</p>
+            <p>Let it be obſerved; The Reſt in God we ſpeak of, is a <hi>Grace.</hi> Grace, is a <hi>Growing</hi> thing. 'Tis but a <hi>Seed</hi> of it that the Holy Ghoſt infuſeth, in our firſt Converſion. But, like the grain of <hi>Muſtard Seed,</hi> it grows. He that Infuſeth it, doth <hi>Increaſe</hi> it. He brings it unto it's juſt meaſure and Size, in every Convert. He Keeps it Growing until the very <hi>Harveſt.</hi> Nor is ever Grace at a full ſtand, till it be <hi>ripened</hi> into Glory. 'Tis often told you, and I hope you know: the Ho<g ref="char:EOLhyphen"/>ly Spirits work is to ſet us working. All that He works <hi>for</hi> us and <hi>in us,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> works <hi>by</hi> us. Conſequently, we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay by no means imagine, but that we have room to Mend till we come to Heaven. And have an increaſe to make in this and every grace. The greateſt Charity muſt take it for
+<pb n="24" facs="tcp:29999:21"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:29999:21"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:29999:22"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:29999:22"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="26" facs="tcp:29999:23"/>Phrenzie, if any man ſhould ſay to this purpoſe. <q rend="inline">Long hath been my <hi>Conflict?</hi> and I have obtain'd ſome <hi>Conqueſt</hi> over the enemies of my Souls Reſt. I cannot <hi>expect,</hi> nor will I therefore <hi>endeavour</hi> after more. My work ſhall be to keep, not en<g ref="char:EOLhyphen"/>large my victory. My will is melted into the will of God as much as I ever look to have it. Inwardly I <hi>Fret</hi> as little; outwardly I <hi>Mur<g ref="char:EOLhyphen"/>mur</hi> as little as I am ever like to do. It were vain to pray the Holy Spi<g ref="char:EOLhyphen"/>rit, to make my own Spirit leſs <hi>Tu<g ref="char:EOLhyphen"/>multuous</hi> and confuſed than 'tis. To hold it any higher than He does al<g ref="char:EOLhyphen"/>ready, from ſinking <hi>Diſcouragements,</hi> or diſtracting <hi>Cares.</hi> In all that comes on me, my <hi>Mind</hi> is as ſatisfied as e<g ref="char:EOLhyphen"/>ver it will be, that 'tis God's doing, and that 'tis Juſt and Good. My <hi>Will</hi> alſo is as obſequious, yielding and ſubmiſſive, as it can be made. The <hi>tenor</hi> and <hi>temper</hi> of my Soul is as like Heaven as it will ever be up<g ref="char:EOLhyphen"/>on earth, <hi>&amp;c.</hi>
+               </q> No gracious Heart can
+<pb n="27" facs="tcp:29999:23"/>have ſuch a Mouth. As long as 'tis it ſelf and free from Lunacy, it cannot. Nay, but it will ſpeak clean contra<g ref="char:EOLhyphen"/>rily.</p>
+            <p>C. 4. <hi>The Children of God, do upon many and mighty Motives, ſeek to attain all Reſt in God that is attainable.</hi> They think not leſs than All, to be enough for their preſent ſtate. And they have Reaſons enough for that their Thought. Some of them, and not the Leaſt, ſhall be propoſed. God's Servants conſider the following particulars.</p>
+            <p n="1">(1.) There is a Neceſſity of <hi>Pre<g ref="char:EOLhyphen"/>cept.</hi> God commands, that Degrees of Reſt unattained be laboriouſly ſought. As well as that the Degrees attained be watchfully kept. He re<g ref="char:EOLhyphen"/>quires not the Principle of any grace, without the Practice; nor Perſeve<g ref="char:EOLhyphen"/>rance in any, without Proficience. As expreſly we are bid to Grow, as to ſtand in grace. Now where the word of God's Command is, there is Power.
+<pb n="28" facs="tcp:29999:24"/>In a gracious Soul there is ſuch a po<g ref="char:EOLhyphen"/>werful impreſſion made, as there is in a Subject's heart by his Kings com<g ref="char:EOLhyphen"/>mandment; or in a Child's by his Fa<g ref="char:EOLhyphen"/>ther's.</p>
+            <p n="2">(2.) There is a Neceſſity of <hi>means.</hi> Of means unto our chief end, yea our whole one. Our <hi>Ultimate</hi> one, which is God's Honour; our <hi>Near</hi> one, which is Our own Good; our <hi>Intermediate</hi> one, which is our Neighbour's Good. Reſt in God is an undiſpenſably requi<g ref="char:EOLhyphen"/>ſite Means unto all three. And our Degrees in them, can be but accord<g ref="char:EOLhyphen"/>ing as our Degrees of Reſt are. For the <hi>Being</hi> and <hi>Life,</hi> the <hi>Beauty</hi> and the <hi>Strength,</hi> of all Duty unto God, con<g ref="char:EOLhyphen"/>ſiſteth much in this Reſt. Is God <hi>my</hi> God? do I Hallow his Name? or do I Look like Chriſt's diſciple? Till I Lye down at his foot, ſubmit to his Will, content me with his Pleaſure? Excepting againſt nothing that He does? No; but when a Soul doth this, it acts not a <hi>Single</hi> grace, but <hi>all</hi> gra<g ref="char:EOLhyphen"/>ces
+<pb n="29" facs="tcp:29999:24"/>together. It acts them not <hi>meanly</hi> neither, but <hi>illuſtriouſly</hi> and amiably. With huge ſtrength and demonſtrati<g ref="char:EOLhyphen"/>ons ſtrongeſt of Truth and Goodneſs. As for our own Good, it ſtands in <hi>Re<g ref="char:EOLhyphen"/>ceiving</hi> from God what thro' Chriſt he Gives. <hi>Waiting</hi> for what he Pro<g ref="char:EOLhyphen"/>miſes. <hi>Giving back</hi> what he requires from our hands. And how requiſite is a Quiet ſpirit to all theſe? The Veſ<g ref="char:EOLhyphen"/>ſel into which a Liquor is poured, muſt not ſtir and jog up and down, but be held ſtill. Are we Veſſels of mercy? Are we to receive the waters of Life, the ſtreams of grace? If ſo, the ſpirit of grace muſt hold ſtill our Spirits. Keep them Quiet and unhur<g ref="char:EOLhyphen"/>ryed and ſubmiſſive. So, if we are to Live by Hope, and wait for the glory to be revealed, how needful is Reſt? Aſſoon may you ſee with ſhut eyes, as Hope with vexing and reſtleſs hearts. <hi>Reſt</hi> and <hi>Submiſſion</hi> be the in<g ref="char:EOLhyphen"/>lets of <hi>Hope,</hi> as <hi>Hope</hi> is the inlet of <hi>Conſolation</hi> and <hi>Joy.</hi> The Worſhip we are to give unto God, hath this to
+<pb n="30" facs="tcp:29999:25"/>be ſaid of it. It hath a Soul and Body, a Kernel and Shell, a Subſtance and Shadow. An heart that is like either to the <hi>Dead</hi> Sea or to the <hi>Adriatick</hi> raging Sea, may give God the car<g ref="char:EOLhyphen"/>caſs, the Shell, and the Shadow of wor<g ref="char:EOLhyphen"/>ſhip. The Soul, the Kernel, the Sub<g ref="char:EOLhyphen"/>ſtance, none can give but the reſign<g ref="char:EOLhyphen"/>ing, reſting heart. That which Reſigns it ſelf unto God's good will, and Reſts confident there will be nothing but what ought to be in his works. As for our Uſefulneſs to the Converſion of ſinners, or Edification of Converts, let <hi>Reaſon</hi> and <hi>Experience</hi> ſpeak! Will the mire caſt out of a troubled mud<g ref="char:EOLhyphen"/>died Soul conduce unto theſe ends, or to the quite contrary? Words ſig<g ref="char:EOLhyphen"/>nify little, without an efficacy-giving Example. But a Reſtleſs man's whole Converſation, is one continued <hi>ſlander</hi> of Religion. And a <hi>Diſſwaſive</hi> from it. In ſhort, the <hi>Philoſopher</hi> ſays right. <hi>Whatever moves, muſt move upon ſome<g ref="char:EOLhyphen"/>what Unmoveable.</hi> Ships move on the Sea 'tis true; but the Sea moves on
+<pb n="31" facs="tcp:29999:25"/>that which moves not. Coach-wheels move up and down; but ſo doth not the Axle-tree to which they are faſtned. Man's heart can in no good courſe move, till it be joyned unto God, and reſt in Him who is unmo<g ref="char:EOLhyphen"/>vable. 'Tis by Reſt in Him, we are fitted for every Mo<g ref="char:EOLhyphen"/>tion for Him
+<note n="*" place="margin">Then it is we can do what plea<g ref="char:EOLhyphen"/>ſeth Him, when what He doth do does pleaſe us.</note>.</p>
+            <p n="3">(3.) There is a Neceſſity of <hi>Cove<g ref="char:EOLhyphen"/>nant.</hi> There is no true Servant of God, but what is a Covenant one. Nor any Covenant one, but what has Promiſed and Vowed ſincere and entire Acquieſcence in God's Will. Praying, without limitation, that <hi>his Will be done.</hi> Yea, and <hi>upon Earth as in Heaven.</hi> Now, do Covenants ſig<g ref="char:EOLhyphen"/>nifie any thing or nothing? ſigned, ſealed Covenants. Such is our Cove<g ref="char:EOLhyphen"/>nant with God, in <hi>Baptiſm,</hi> and at his <hi>Holy Table</hi> ſign'd and ſeal'd. Or dreams any man, that he hath riſen to a full performance of his Sacramen<g ref="char:EOLhyphen"/>tal
+<pb n="32" facs="tcp:29999:26"/>Engagement? If not, he muſt feel it's force on his Soul, conſtraining to purſue more Reſt in God. Or elſe be inclined to renounce his <hi>Baptiſm;</hi> as indeed the moſt among us, but too <hi>practically</hi> do.</p>
+            <p n="4">(4.) There is a Neceſſity of <hi>Inte<g ref="char:EOLhyphen"/>reſt.</hi> God allows, yea commands us to Love our ſelves wiſely, without any ſtint. The ſum of all his Com<g ref="char:EOLhyphen"/>mands is this; "Be happy! What<g ref="char:EOLhyphen"/>ever is truly for my eternal <hi>Intereſt,</hi> the ſame is my <hi>Duty.</hi> Now, if any thing be ſo, Reſt in God is ſo. For why? Satan can have no good angling in the waters of my Soul, if they be not Troubled. <hi>Tempta<g ref="char:EOLhyphen"/>tions</hi> ſpoil men; but Content with God's Will, ſpoils and ſhames Temp<g ref="char:EOLhyphen"/>tations. Yea, and it doth by our <hi>Comforts,</hi> as our Saviour by the <hi>Loaves</hi> and <hi>Fiſhes, Matth.</hi> 14. It multiplies them miraculouſly; and makes a ve<g ref="char:EOLhyphen"/>ry few of them, enough for us, and to ſpare. A little with Content, is
+<pb n="33" facs="tcp:29999:26"/>not a little. 'Tis a great deal. And a great deal, and Content with it, is very Heaven it ſelf. A great man hath ſaid, A Contented ſpirit on Earth, is in ſome reſpects better than Heaven. Boldly I will ſay; 'Tis the beſt of Heaven that we can have on Earth, to Reſt always and Depend on the Lord of Earth and Heaven. Li<g ref="char:EOLhyphen"/>ving off from Creatures; and from under their Power to Glad or Sadden us. And knowing this unqueſtion<g ref="char:EOLhyphen"/>able truth, That ſound Chriſtians Poſſeſs all things. Or, if they don't, they have given them the good of all they want, as truly as the good of what they have. The <hi>Honour,</hi> that Reſt in God doth crown a Soul with, is the greateſt that God can be ima<g ref="char:EOLhyphen"/>gined to give, or a Creature receive. It makes as like God as a Creature can be. When you have all you would have in Him, you are next Happy and Honourable to Him, that has all in Himſelf that He would have.</p>
+            <pb n="34" facs="tcp:29999:27"/>
+            <p n="5">(5.) There is a Neceſſity of <hi>Na<g ref="char:EOLhyphen"/>ture.</hi> The very Nature of a Regene<g ref="char:EOLhyphen"/>rate man, is againſt Vexation at what God does. And is for the moſt entire reſignation unto his Pleaſure. Unre<g ref="char:EOLhyphen"/>generate men's <hi>carnal mind,</hi> is all En<g ref="char:EOLhyphen"/>mity; and ſuch as cannot be Subject to, and Quiet in, God's Will. But the New-born man's <hi>renewed mind,</hi> is all Friendſhip; and ſuch as cannot but be Flexible to, and be at Reſt in it. At leaſt, it cannot but wiſh, and will, and pray, and ſtrive to be ſo. God calls Unquiet hearts, <hi>Rebels.</hi> And ſo do his Children call their own hearts when they be Unquiet. Saints in Hea<g ref="char:EOLhyphen"/>ven can have no <hi>actual</hi> Diſcontent; Saints on Earth can have no <hi>allowed</hi> Diſcontent. The Nature of theſe is as truly againſt it, as the Nature of thoſe is. Albeit their Power againſt its invaſion be not ſo great. Their good Apprehenſion of God, and their good Affections toward Him, be the ſame for <hi>Kind,</hi> tho' not for <hi>Degree.</hi>
+            </p>
+            <pb n="35" facs="tcp:29999:27"/>
+            <p>It remains that we Apply all. May He who only teaches to Profit, teach you this; without which 'tis impoſ<g ref="char:EOLhyphen"/>ſible to Profit. Reſt is ſo ſuitable to <hi>natural Deſires,</hi> that I muſt ſuppoſe you always to deſire it. <hi>Our Days</hi> are ſo troubleſom and ſtormy, that, methinks your preſent care for it ſhould be above ordinary. And that very <hi>Providence</hi> which occaſioned this Sermon, one would think, ſhould con<g ref="char:EOLhyphen"/>tribute much to your Perſuadableneſs by it. In <hi>hope</hi> that ſome will make a good uſe of it, and with <hi>deſire</hi> that all of you may, I ſhall ſet before you two things; <hi>viz.</hi> The principal <hi>Truths</hi> this Doctrine calls to us to Conſider; and the ſpecial <hi>Duties</hi> it obligeth us to Practiſe.</p>
+            <div type="part">
+               <head>Of theſe Truths, I commend five.</head>
+               <p>T. 1. <hi>Good men are careful about the Temper of their Minds.</hi> All men are ſo about the Temper of their <hi>Bodies.</hi> As for their <hi>Minds,</hi> moſt are very
+<pb n="36" facs="tcp:29999:28"/>heedleſs. And tamely bear any Tem<g ref="char:EOLhyphen"/>per that <hi>comes upon them.</hi> Not having ill Tempers Lamented, or gracious ones Laboured for, by them. But men of good hearts, are not a little careful about their good plight and tempers. <hi>Prov.</hi> 4.23. <hi>Keep thy heart with all diligence,</hi> is a Text engraven deeply on their hearts. [And I would that Mr. <hi>Richard Alleines</hi> golden Ser<g ref="char:EOLhyphen"/>mons upon it, were more in peoples hands.]</p>
+               <p>T. 2. <hi>This World, as bad as 'tis, is not ſo bad as ſome haſty folk make of it.</hi> Such, I mean, as exclaim againſt it as a Place uncapable of any Reſt. And altogether unfit for Comfort or Joy. True, we are here, all of us, defiled with rebelling <hi>Corruptions,</hi> clothed with numberleſs <hi>Infirmities,</hi> loaded with paſt <hi>Guilts,</hi> aſſaulted with pre<g ref="char:EOLhyphen"/>ſent <hi>Temptations.</hi> We are by <hi>Satan</hi> buffeted, by <hi>Men</hi> oppreſſed, by <hi>God</hi> afflicted. Be it confeſſed therefore; without ſome ſolid ſupport, <hi>(Vivere
+<pb n="37" facs="tcp:29999:28"/>non eſt Vita,)</hi> our Life is ſcarcely worth the name of Life. But yet, all Reſt is not reſerved for next World. There is a Lord that in this World, <hi>re<g ref="char:EOLhyphen"/>bukes</hi> Temptations, <hi>pardoneth</hi> Guilts, <hi>heals</hi> Infirmities, <hi>ſubdues</hi> Corruptions, <hi>heightens</hi> Conſolations above Suffer<g ref="char:EOLhyphen"/>ings. And who in this World it ſelf, bids and makes his Children to Reſt and Rejoyce in Him. Such a thing there is as an <hi>Heaven upon Earth.</hi> And 'tis long of our ſelves if we find it not.</p>
+               <p>T. 3. <hi>Serious Chriſtianity, doth little deſerve the imputations of Sourneſs and Melancholy.</hi> What is it but a Life ſtudiouſly Quiet and Comfortable? It's Poſſeſſors chide themſelves for nothing more, than their fooliſh departures from their true Reſt. They proclaim it <hi>Comely to rejoyce,</hi> Pſalm 33.1. And profeſs that they do ſo with <hi>Joy unſpeakable and full of glory,</hi> 1 Pet. 1.8. Have they at times their Shipwracks of Reſt, in which
+<pb n="38" facs="tcp:29999:29"/>neither Sun nor Star ap<g ref="char:EOLhyphen"/>pears?
+<note place="margin">The World will not believe it, but the Church knows it. And will be content to bear the hard names ſent from the ſcorners chair.</note> Yes, they have. But then it ſelf, Light, and Reſt, and Joy are ſown for them, as they be not for ſinners. And their Sorrows be, but like a travailing Woman's, the fore-runners of Joy. Their bittereſt Aloes be better therefore than ſinners moſt ſweetned Arſenick. Sinners be ſtill in little Quiet, and be going to leſs. Good men have always ſome, and are going where they ſhall have all. Sincere Religion, is the only Element in which Reſt or Peace can live.</p>
+               <p>T. 4. <hi>We never do well to be angry at what God does.</hi> Grace carries us to expel and prevent anger and unquiet<g ref="char:EOLhyphen"/>neſs. 'Tis Corruption inclines us at any time to Plead for it. Indeed we may reaſonably and ſinleſly, Reſent Afflictions. Yea, 'tis our Duty to ab<g ref="char:EOLhyphen"/>hor ſtupidity, and not (thro' unſen<g ref="char:EOLhyphen"/>ſibleneſs) deſpiſe God's Chaſtening.
+<pb n="39" facs="tcp:29999:29"/>We may likewiſe, humbly make our Moans to God; and pour out our com<g ref="char:EOLhyphen"/>plaints unto our Brethren. We alſo may and ought to uſe all innocent means, to get from under afflictive evils. Scripture and Nature vouch this. But to Rage and Repine at God's work, is to Blaſpheme his Majeſty. And 'tis certainly the Logick of the Devil, that frames Arguments againſt God. Arguments I call them; but they are but in colour and falſe ap<g ref="char:EOLhyphen"/>pearance ſo. Sin and Satan have a great hold of a man, when ever he offers to bring ſuch to juſtifie his bla<g ref="char:EOLhyphen"/>ming of God; <hi>e. gr.</hi>
+               </p>
+               <p>Obj. <hi>Can I be Troubled too much? my Trouble is for ſin.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> You muſt not for Sin it ſelf be Troubled more than God requires. And that is unto Humiliation, not De<g ref="char:EOLhyphen"/>ſperation. Diſtraction fits for <hi>Bedlam,</hi> not for Heaven. If your Trouble be for Sin, your care ſhould be to keep Sin out of your Trouble.</p>
+               <p>Obj. <hi>God has Departed from me; Can I take on too much?</hi>
+               </p>
+               <pb n="40" facs="tcp:29999:30"/>
+               <p>
+                  <hi>Anſ.</hi> Yes, you may. If He be gone from you, go you and cry after Him. Not Run away from Him, and Rage againſt Him.</p>
+               <p>Obj. <hi>My Affliction is a none ſuch; and may not I then be allowed to Crudge a little?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> It may be 'tis a none-ſuch but in thy own Conceit. But if other<g ref="char:EOLhyphen"/>wiſe, God has not wronged thee. Hell it ſelf is not more than thy de<g ref="char:EOLhyphen"/>ſert. Fretting will make it worſe. Submiſſion is thy only way unto Re<g ref="char:EOLhyphen"/>ſtauration.</p>
+               <p>Obj. <hi>But this Affliction makes me Unſerviceable; and therefore I cannot bear it.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Unſerviceable! Vain Man, I tell thee, Serving God is doing his Will, not your own. His Will is now, that you ſerve his glory by pa<g ref="char:EOLhyphen"/>tient endurance of his Chaſtiſement. Whatever other ſervice He has to do, He can do it without you. He can Find Servants, or Make them, or Work without them.</p>
+               <pb n="41" facs="tcp:29999:30"/>
+               <p>T. 5. <hi>That Reſt and Peace which coſt but little, are worth as little. Da<g ref="char:EOLhyphen"/>vids</hi> get theirs, by Prayers and Pains with their Souls. True Saints ſow in Tears before they reap in great Joy. I would not be thought to in<g ref="char:EOLhyphen"/>timate, that all God's Children do mourn as long, as loud, and as much, one as another. I know they do not. There is a vaſt difference that Sove<g ref="char:EOLhyphen"/>raign Grace makes. But I affirm this, to be clear from the Holy Scripture. A frame of holy Reſt in the Soul is not to be expected without the con<g ref="char:EOLhyphen"/>ſtant and diligent care of the Soul. To wit, for Attaining, Keeping, Increa<g ref="char:EOLhyphen"/>ſing it. And whatever the temper of the Soul appears, 'tis more than pro<g ref="char:EOLhyphen"/>bable that it is not worth keeping, if it coſt not true pains in the getting. God doth not ſell us Peace for our Pains. But He hates Pride and Idle<g ref="char:EOLhyphen"/>neſs, and gives not Peace without our Humility and Induſtry.</p>
+               <p>The Duties whereto I exhort, are five moſt conducive to Reſt.</p>
+               <pb n="42" facs="tcp:29999:31"/>
+               <p>D. 1. <hi>Give all Diligence to make your Calling and Election ſure.</hi> There is no Reſt in Creatures. They are <hi>Falſe,</hi> and Delude us. <hi>Weak,</hi> and Diſap<g ref="char:EOLhyphen"/>point us. But neither is there any Reſt in God for you, until you be truly Converted unto God. How oft have I told you, Without holineſs no man ſhall comfortingly ſee God here or hereafter? Without the holineſs of <hi>Spirit, Covenant, Qualities, Conver<g ref="char:EOLhyphen"/>ſation,</hi> and <hi>Company,</hi> that I have treat<g ref="char:EOLhyphen"/>ed of elſewhere. If you would have Reſt, go no ſhorter a way than this to find it.</p>
+               <p>D. 2.
+<note place="margin">They ſay, that neither Trees, nor Graſs, will grow upon the ground under which Gold Mines be. 'Tis ſure that Holy Reſt is often kill'd by the Love of yellow Duſt.</note> 
+                  <hi>Love not the World, nor the things of the World.</hi> Watch and Pray againſt the inordi<g ref="char:EOLhyphen"/>nate Love of this low World, and its low things. It often gets in<g ref="char:EOLhyphen"/>to the beſt hearts, before they are aware. And ſooner than other Enemies to Soul-peace.
+<pb n="43" facs="tcp:29999:31"/>When it hath invaded, the ſtrongeſt Grace will have enough to do to drive it out. And muſt look for ſmall meaſures of quiet while 'tis in. Of all the famed Saints recorded in Scripture, and renowned for aſſu<g ref="char:EOLhyphen"/>rance of God's Love; what one do you read of tainted with Love of this World?</p>
+               <p>D. 3. <hi>Walk circumſpectly and pre<g ref="char:EOLhyphen"/>ciſely.</hi> In Duties Perſonal and Rela<g ref="char:EOLhyphen"/>tive. Omiſſion, or ſlight Performance of one, deſerves deprivation of the Ho<g ref="char:EOLhyphen"/>ly Spirit. And, if the Comforter go away, what becomes of your Reſt? The weakeſt Chriſtian, that lives up unto the grace he hath received, is ſafer than the ſtrongeſt that doth not ſo. And will have more <hi>Reſt at Noon</hi> than he.</p>
+               <p>D. 4. <hi>Let your Love of God Believe all things, and Hope all things.</hi> I mean, in all ſevereſt diſpenſations Believe all that He doth to be very Equitable.
+<pb n="44" facs="tcp:29999:32"/>And hope to ſee the day that will ſhew how little cauſe has been given of your Diſlike. The Law ſaith, the King can do no hurt, tho' his Mini<g ref="char:EOLhyphen"/>ſters may. The Goſpel is plain, Hea<g ref="char:EOLhyphen"/>ven's King can't do hurt to his Chil<g ref="char:EOLhyphen"/>dren. Altho' the World may. All Unſatisfiedneſs with Events, is cauſed by our having no thoughts of God, or low, and ſlight, and hard ones. Do but Know and Remember He is God. And one that then cannot act but like Himſelf. It will be almoſt as Im<g ref="char:EOLhyphen"/>poſſible as Unjuſt to be Diſcontented.</p>
+               <p>D. 5. <hi>Muſe not ever upon your Af<g ref="char:EOLhyphen"/>flictions disjunctly from your Mercies.</hi> If you muſt multiply thoughts of them, then joyn you as many thoughts of your Mercies with them. Elſe, while the beſt men muſe, a wild-fire will burn. But be it reflected on by us! Had we ever in our Lives one Affli<g ref="char:EOLhyphen"/>ction, under which we had not a mil<g ref="char:EOLhyphen"/>lion of Mercies? Or, what man is he that hath not received a Sea of Mercies
+<pb n="45" facs="tcp:29999:32"/>for every drop of Trouble from God's hand? That has not had many a good Day or Week, for every ſorrow<g ref="char:EOLhyphen"/>ful Hour? A very ill Spirit it there<g ref="char:EOLhyphen"/>fore appears, that is took up wholly in poring on the ſo few ſorrows, tho' Deſerved, and Needed, and Bleſſed too, it may be. Paſſing unregarded the ſo many Comforts, on an Undeſer<g ref="char:EOLhyphen"/>ving and Ill-deſerving worm beſtown.</p>
+               <p>I wave other Particulars. Let ſuch as need, gather from Mr. <hi>Burroughs</hi> of Contentment, and Dr. <hi>Bates</hi> of Reſig<g ref="char:EOLhyphen"/>nation unto the Will of God.</p>
+               <p>My Teſtimony of the gracious, humble, quiet Chriſtian foremention<g ref="char:EOLhyphen"/>ed, is unneceſſary. Except it be for provoking your Imitation. Upon very ſatisfactory grounds, I have thought her One, of Gifts and Graces, above the ordinary pitch. And, the ſame for the Conſolations of God. Her Night-ſong was, <hi>Now am I one day nearer my Father's houſe, my heavenly
+<pb n="46" facs="tcp:29999:33"/>home.</hi> And her Morning one was harmonious; to the ſame tune. Her <hi>Memory</hi> is ſweet unto many; her helpful <hi>Converſes</hi> are dearly miſſed by her Relations and Neighbours. My Advice is, that you all take the only way to do her Memory true Honour; and your ſelves the greateſt Kindneſs. VVhich is, to hear her, tho' now <hi>Dead, yet Speaking.</hi> And by her Ex<g ref="char:EOLhyphen"/>ample ſhewn you, now preſſing you to conclude the Duties that I have Preach'd, to be both <hi>Poſſible,</hi> and <hi>De<g ref="char:EOLhyphen"/>ſirable.</hi> She fore-ſaw her Death, and paſs'd thro' the darkeſt ſhadow of its Vale, as undauntedly, as you know. O that before God take any others of you hence, you may ſeek and find that Soul Reſt which may a-like <hi>glo<g ref="char:EOLhyphen"/>rifie</hi> God, <hi>comfort</hi> your ſelves, and <hi>re<g ref="char:EOLhyphen"/>joyce</hi> the Congregation you leave be<g ref="char:EOLhyphen"/>hind! <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="Psalm_and_hymn">
+            <pb n="47" facs="tcp:29999:33"/>
+            <head>Reſtleſs Importunity makes thus pub<g ref="char:EOLhyphen"/>lick, the Verſes of <hi>Pſalm 116th.</hi> ſung before the Sermon. And the Hymn ſung after it.</head>
+            <div type="Psalm">
+               <head>Pſalm 116.</head>
+               <lg>
+                  <l>1. THE God of Love hath <hi>all</hi> my Love,</l>
+                  <l>
+                     <hi>All, all,</hi> I give Him <hi>all:</hi>
+                  </l>
+                  <l>And well I may; cauſe when I Pray,</l>
+                  <l>
+                     <hi>All</hi> Help comes at my Call.</l>
+               </lg>
+               <lg>
+                  <l>2. Becauſe that his free Grace ſo pleas'd,</l>
+                  <l>To grant this humble <hi>Pray'r:</hi>
+                  </l>
+                  <l>When I ſhall ceaſe to Him to <hi>Pray,</hi>
+                  </l>
+                  <l>I'le ceaſe to breath in's <hi>Air.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>3. The ſinking ſorrows of <hi>pale Death,</hi>
+                  </l>
+                  <l>My trembling Soul aſſail'd,</l>
+                  <l>Fear of the Jaws of <hi>ravenous Hell,</hi>
+                  </l>
+                  <l>Upon my heart prevail'd.</l>
+               </lg>
+               <pb n="48" facs="tcp:29999:34"/>
+               <lg>
+                  <l>4. Then, <hi>which was all that I could do,</hi>
+                  </l>
+                  <l>I did invoke God's Name:</l>
+                  <l>"<hi>My God,</hi> ſaid I, <hi>"Save my Loſt Soul!</hi>
+                  </l>
+                  <l>And <hi>ſwift Salvation</hi> came.</l>
+               </lg>
+               <lg>
+                  <l>5. Tranſcendent is the <hi>Grace</hi> of God;</l>
+                  <l>That doth with <hi>Truth</hi> abound:</l>
+                  <l>The Praiſes of his <hi>Mercies</hi> great,</l>
+                  <l>Thro' Earth and Heaven ſound.</l>
+               </lg>
+               <lg>
+                  <l>6. This Lord to ſimple <hi>helpleſs</hi> Souls,</l>
+                  <l>
+                     <hi>Sufficient Help</hi> will give:</l>
+                  <l>I ſeem'd <hi>as dead as Death it ſelf,</hi>
+                  </l>
+                  <l>And yet, behold, I <hi>Live.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>7. Turn, turn thee then, <hi>my reſcued Souls</hi>
+                  </l>
+                  <l>Unto thy calm and reſt:</l>
+                  <l>For why; the God of Love, to thee</l>
+                  <l>Hath his <hi>Choice Love</hi> expreſt.</l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <head>HYMN.</head>
+               <lg>
+                  <l>ARE <hi>Heav'n and Hell</hi> eternal things?</l>
+                  <l>What! <hi>never</hi> to have end?</l>
+                  <l>Muſt <hi>Heav'ns</hi> full Pleaſures <hi>ne're</hi> abate?</l>
+                  <l>
+                     <hi>Hell</hi>'s ſtock of Plagues <hi>ne're</hi> ſpend?</l>
+               </lg>
+               <lg>
+                  <l>O <hi>ſtrengthen,</hi> Lord, our <hi>weakeſt</hi> Faith</l>
+                  <l>Of ſo great <hi>Hopes</hi> and <hi>Fears!</hi>
+                  </l>
+                  <pb n="49" facs="tcp:29999:34"/>
+                  <l>Make the <hi>Archangel's Trumpet</hi> be</l>
+                  <l>
+                     <hi>Still</hi> ſounding in our Ears.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Vain World, farewel!</hi> our <hi>dead</hi> friends ſhew</l>
+                  <l>Our days to <hi>Live</hi> be few:</l>
+                  <l>By <hi>Word</hi> and <hi>Works,</hi> this day God puts</l>
+                  <l>
+                     <hi>Next World</hi> within our view.</l>
+               </lg>
+               <lg>
+                  <l>Scorn, O our Souls, <hi>Time</hi> and <hi>this World,</hi>
+                  </l>
+                  <l>Hold the <hi>next World</hi> in Eye:</l>
+                  <l>The <hi>Sweets</hi> and <hi>Bitters</hi> of this World,</l>
+                  <l>Muſt, both, to <hi>Morrow</hi> die.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Haſte, haſte,</hi> and <hi>make your Peace</hi> with God,</l>
+                  <l>In Him take up your <hi>Reſt:</hi>
+                  </l>
+                  <l>Your <hi>Preſent</hi> ſtate ſhall then be <hi>Good,</hi>
+                  </l>
+                  <l>And <hi>Future</hi> ſtate be <hi>Beſt.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:29999:35"/>
+            <head>Books to be Sold by <hi>Tho. Parkhurſt,</hi> at the Bible and three Crowns in <hi>Cheapſide.</hi>
+            </head>
+            <p>A Hundred ſelect Sermons on ſeveral Texts, by <hi>Tho. Horton,</hi> D D.</p>
+            <p>Sermons on 4 ſelect <hi>Pſalms,</hi> viz. 4th. 42, 51, 63. by <hi>Tho. Horton,</hi> D. D.</p>
+            <p>Mr. <hi>Baxters</hi> Chriſtian Directory.</p>
+            <p>Sermons on the whole Epiſtle of Saint <hi>Paul</hi> to the <hi>Coloſſians,</hi> by Mr. <hi>J. Daille,</hi> tranſlated into Engliſh by <hi>F. S.</hi> with Dr. <hi>Tho. Goodwins,</hi> and Dr. <hi>John Owens</hi> E<g ref="char:EOLhyphen"/>piſtles Recommendatory.</p>
+            <p>An Expoſition of Chriſts Temptation on <hi>Matth.</hi> 4. and <hi>Peters</hi> Sermon to <hi>Corne<g ref="char:EOLhyphen"/>lius;</hi> and circumſpect walking, By Dr. <hi>Tho. Taylor.</hi>
+            </p>
+            <p>A Practical Expoſition on the 3d. Chap<g ref="char:EOLhyphen"/>ter of the firſt Epiſtle of Saint <hi>Paul</hi> to the <hi>Corinthians,</hi> with the <hi>Godly mans choice,</hi> on <hi>Pſalm</hi> 4. v. 6, 7, 8. by <hi>Anthony Burgeſs.</hi>
+            </p>
+            <p>Dr. <hi>Donns</hi> 40 Sermons, being his 3 Vo<g ref="char:EOLhyphen"/>lumes.</p>
+            <p>
+               <hi>Pareus</hi> Expoſition on the <hi>Revelations.</hi>
+            </p>
+            <p>General Martyrologia, with the Lives
+<pb facs="tcp:29999:35"/>of 32 Engliſh Divines, by <hi>Sam. Clark.</hi>
+            </p>
+            <p>A Conference between a Benſalian Bi<g ref="char:EOLhyphen"/>ſhop, and an Engliſh Doctor concerning Church Government.</p>
+            <p>An Expoſition of the five firſt Chapters of <hi>Ezekiel,</hi> with uſeful obſervations there<g ref="char:EOLhyphen"/>upon, by <hi>William Greenhil.</hi>
+            </p>
+            <p>The Goſpel Covenant opened, by <hi>Pet. Bulkeley.</hi> Gods holy Mind, touching mat<g ref="char:EOLhyphen"/>ters Moral, which he uttered in ten Com<g ref="char:EOLhyphen"/>mandments: Alſo an Expoſition on the Lords Prayer, by <hi>Edward Elton,</hi> B. D.</p>
+            <p>
+               <hi>Horologiographia optica;</hi> Dyalling, uni<g ref="char:EOLhyphen"/>verſal and particular, ſpeculative and practi<g ref="char:EOLhyphen"/>cal; together with a Deſcription of the Court of Arts, by a new Method, by <hi>Syl<g ref="char:EOLhyphen"/>vanus Morgan.</hi>
+            </p>
+            <p>A ſeaſonable Apology for Religion, by <hi>Matthew Pool.</hi>
+            </p>
+            <p>Separation no Schiſm, in anſwer to a Sermon preached before the Lord Mayor, by <hi>J. S.</hi>
+            </p>
+            <p>The Practical Divinity of the Papiſt, diſcovered, to be deſtructive to true Re<g ref="char:EOLhyphen"/>ligion, and mens Souls, by <hi>J. Clarkſon.</hi>
+            </p>
+            <p>A Caſe of Conſcience, <hi>viz.</hi> whether it be lawful for any perſon to act contrary to the opinion of his own Conſcience, formed from arguments that to him ap<g ref="char:EOLhyphen"/>pear very probable, though not neceſſary
+<pb facs="tcp:29999:36" rendition="simple:additions"/>or demonſtrative, by Dr. <hi>Collings.</hi>
+            </p>
+            <p>The Creatures goodneſs as they came out of Gods hand, and the good mans mercy to the bruit-Creatures, in two Ser<g ref="char:EOLhyphen"/>mons, by <hi>Tho. Hodges.</hi> B. D.</p>
+            <p>Certain Conſiderations tending to pro<g ref="char:EOLhyphen"/>mote Peace and Unity among Proteſtants.</p>
+            <p>
+               <hi>Mediocria,</hi> or the moſt plain and natu<g ref="char:EOLhyphen"/>ral apprehenſions which the Scripture of<g ref="char:EOLhyphen"/>fers, concerning the great Doctrines of the Chriſtian Religion: of Election, Re<g ref="char:EOLhyphen"/>demption, the Covenant, the Law and Goſpel, and Perfection.</p>
+            <div type="part">
+               <head>Funeral Sermons.</head>
+               <p>Mr. <hi>James Janeway,</hi> by <hi>Nath. Vincent.</hi> The Lady <hi>Suſanna Keate</hi>'s, by <hi>Richard Kidder,</hi> M A.</p>
+               <p>Mr. <hi>Cautons,</hi> by Mr. <hi>Henry Hurſt,</hi> and Mr. <hi>Nath. Vincent.</hi>
+               </p>
+               <p>Mr. <hi>Sorrels,</hi> by Mr. <hi>Benj. Smith.</hi>
+               </p>
+               <p>Mr. <hi>Wadſworth,</hi> by Mr. <hi>R. Bragg.</hi>
+               </p>
+               <p>Mr. <hi>Newcomens,</hi> by Mr. <hi>Fairſon.</hi>
+               </p>
+               <p>Mr. <hi>Thomas Vincents,</hi> by Mr. <hi>Slater.</hi>
+               </p>
+               <p>Mr. <hi>Corbets,</hi> by Mr. <hi>Richard Baxter.</hi>
+               </p>
+               <p>Mr. <hi>Bakers,</hi> by Mr. <hi>Nath. Vincent.</hi>
+               </p>
+               <p>Mr. <hi>Marſhals,</hi> by Mr. <hi>Tomlins.</hi>
+               </p>
+               <p>Mr. <hi>Johnſons,</hi> by Mr. <hi>Loid.</hi>
+               </p>
+               <p>Mrs. <hi>Fiſhers,</hi> by Mr. <hi>Scot.</hi>
+               </p>
+               <p>Dr. <hi>Whittakers,</hi> by Dr. <hi>Anneſly.</hi>
+               </p>
+               <p>Mr. <hi>Wells,</hi> by Mr. <hi>Thomas Watſon.</hi>
+               </p>
+               <pb facs="tcp:29999:36" rendition="simple:additions"/>
+               <p>Mr. <hi>Stubs,</hi> by Mr. <hi>Watſon.</hi>
+               </p>
+               <p>Mr. <hi>Stubs,</hi> by Mr. <hi>Richard Baxter.</hi>
+               </p>
+               <p>
+                  <hi>Hodges</hi> Vanity of man as mortal.</p>
+               <p>Mr. <hi>Lyes,</hi> by Mr. <hi>Lamb.</hi>
+               </p>
+               <p>
+                  <hi>Vertuous</hi> Daughter by <hi>Brion.</hi>
+               </p>
+               <p>Sir <hi>Thomas Viners</hi> by Dr. <hi>Spurſlow.</hi>
+               </p>
+               <p>Mr. <hi>Perns,</hi> by <hi>Ainſworth.</hi>
+               </p>
+               <p>Work and Reward of a Chriſtian, by <hi>R. Raworth.</hi>
+               </p>
+               <p>Mr. <hi>Weſts</hi> Funeral Sermon, by Mr. <hi>Cole.</hi>
+               </p>
+               <p>Mr. <hi>Webbs,</hi> by Mr. <hi>David Burges.</hi>
+               </p>
+               <p>
+                  <hi>Baxters</hi> which is the true Church;</p>
+               <p>
+                  <hi>Hodges</hi> Creatures goodneſs.</p>
+               <p>Naked Truth.</p>
+               <p>
+                  <hi>Doolittles</hi> Proteſtant Anſwer to a Popiſh Queſtion.</p>
+               <p>Mr. <hi>Kidders</hi> Charity directed.</p>
+               <p>Scholars Addreſs againſt Pluralities.</p>
+               <p>Dr. <hi>Croſſmans</hi> Sermon.</p>
+               <p>
+                  <hi>Humphrys</hi> peaceable diſquiſitions.</p>
+               <p>
+                  <hi>Hodges</hi> conſiderations to promote peace.</p>
+               <p>An Endeavour for Peace among Proteſt.</p>
+               <p>A conference between a Papiſt and a Jew; and a Proteſtant and a Jew.</p>
+               <p>An Eſſay for the Education of Gentle<g ref="char:EOLhyphen"/>women.</p>
+               <p>A warning for Servants; or the Caſe of <hi>Margaret Clarke.</hi>
+               </p>
+               <p>An Anſwer to Dr. <hi>Stillingfleet</hi>'s Sermon by the peaceable deſign.</p>
+               <p>A Diſcourſe of Pluralities.</p>
+               <pb facs="tcp:29999:37" rendition="simple:additions"/>
+               <p>A Diſcourſe of Excommunication.</p>
+               <p>The middle way of Predetermination</p>
+               <p>Popery an Enemy to Truth, by Mr. <hi>Shel<g ref="char:EOLhyphen"/>dreck.</hi>
+               </p>
+               <p>Dr. <hi>Dumoulins</hi> conformity of Indepen<g ref="char:EOLhyphen"/>dent Government to the Antient Primi<g ref="char:EOLhyphen"/>tive Chriſtians.</p>
+               <p>Excommunication Excommunicated in a Dialogue between a Doctor of both Laws.</p>
+               <p>
+                  <hi>Waſes</hi> Grammar.</p>
+               <p>
+                  <hi>Vincent</hi> of Conſcience.</p>
+               <p>A rebuke to Informers.</p>
+               <p>A modeſt inquiry into Dr. <hi>Stillingfleet</hi>'s Hiſtorical miſtakes.</p>
+               <p>The State of Bleſſedneſs.</p>
+               <p>Liberty of Conſcience in order to uni<g ref="char:EOLhyphen"/>verſal peace.</p>
+               <p>The Lords voice crying to <hi>England.</hi>
+               </p>
+               <p>Life of <hi>Herod</hi> the Great.</p>
+               <p>
+                  <hi>Phelps</hi> Innocencies reward.</p>
+               <p>
+                  <hi>Roſſes</hi> Myſtogogus Poeticus.</p>
+               <p>
+                  <hi>Phelps</hi> on the Revelations.</p>
+               <p>
+                  <hi>Gilleſpys</hi> Ark of the Covenant.</p>
+               <p>Preſent State of new <hi>England.</hi>
+               </p>
+               <p>Dr. <hi>Collings</hi> of Providence.</p>
+               <p>
+                  <hi>Froyſells</hi> Sermons of Grace and Temp<g ref="char:EOLhyphen"/>tations.</p>
+               <p>
+                  <hi>Yarringtons</hi> Englands Improvement, Firſt part. — Idem Second part.</p>
+               <pb facs="tcp:29999:37"/>
+               <p>Meaning of the Revelation, by <hi>John Hay<g ref="char:EOLhyphen"/>ter.</hi>
+               </p>
+               <p>The Morning-Lecture againſt Popery, or the principal Errors of the Church of <hi>Rome</hi> detected and confuted in a Morn<g ref="char:EOLhyphen"/>ing-Lecture, preached by ſeveral Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel in or near <hi>London.</hi>
+               </p>
+               <p>Four uſeful diſcourſes: (1) The art of improving a full and proſperous condition for the glory of God; being an appendix to the art of Contentment in three Ser<g ref="char:EOLhyphen"/>mons, on <hi>Philip.</hi> 4.12. (2) Chriſtian ſubmiſſion, on 1 <hi>Sam.</hi> 3.18. <hi>Philip.</hi> 1.21. (4) The Goſpel of peace ſent to the ſons of peace, in ſix Sermons on <hi>Luke</hi> 10, 5, 6. by <hi>Jeremiah Burroughs.</hi>
+               </p>
+               <p>Dr. <hi>Wilds</hi> Letter of Thanks and Poems.</p>
+               <p>A new Copy-Book of all ſorts of uſe<g ref="char:EOLhyphen"/>ful hands.</p>
+               <p>The unity and eſſence of the Catholick Church viſible, by Mr. <hi>Hudſon.</hi>
+               </p>
+               <p>The intercourſe of Divine Love be<g ref="char:EOLhyphen"/>tween Chriſt and the Church, or the par<g ref="char:EOLhyphen"/>ticular Believing ſoul: in ſeveral Lectures on the whole ſecond Chap. of Cant. by <hi>John Collings,</hi> D.D.</p>
+            </div>
+            <div type="part">
+               <head>Large 8 <hi>vo.</hi>
+               </head>
+               <p>The ſure mercies of <hi>David</hi> by <hi>Nath. Heywood.</hi>
+               </p>
+               <pb facs="tcp:29999:38"/>
+               <p>Heaven or Hell here in a Good or Bad Conſcience, by <hi>Nath. Vincent.</hi>
+               </p>
+               <p>Cloſet-Prayer a Chriſtians duty; all three by O. <hi>Heywood.</hi>
+               </p>
+               <p>A practical diſcourſe of Prayer; where<g ref="char:EOLhyphen"/>in is handled the nature and duty of Pray<g ref="char:EOLhyphen"/>er by <hi>Tho. Cobbet.</hi>
+               </p>
+               <p>Of quenching the Spirit; the evil of it, in reſpect both of its cauſes and effects, diſcovered; by <hi>Theophilus Polwheile.</hi>
+               </p>
+               <p>The ſure way to Salvation; or a Trea<g ref="char:EOLhyphen"/>tiſe of the Saints myſtical Union with Chriſt; by <hi>Richard Stedman.</hi> M. A.</p>
+               <p>Sober Singularity, by the ſame Au<g ref="char:EOLhyphen"/>thor.</p>
+               <p>Heaven taken by Storm, by <hi>Tho. Wat<g ref="char:EOLhyphen"/>ſon.</hi>
+               </p>
+               <p>The Childs Delight; together with an Engliſh Grammar.</p>
+               <p>Reading and Spelling made eaſie; both by <hi>Tho. Lye.</hi>
+               </p>
+               <p>
+                  <hi>Aeſops</hi> Fables, with morals thereupon in Engliſh Verſe.</p>
+               <p>The Young-mans Inſtructor, and the Old-mans remembrancer; being an Ex<g ref="char:EOLhyphen"/>planation of the Aſſemblies Catechiſm.</p>
+               <p>Captives bound in Chains, made free by Chriſt their Surety; both by <hi>Tho. Doolittle.</hi>
+               </p>
+               <p>Eighteen Sermons preached upon ſeve<g ref="char:EOLhyphen"/>ral
+<pb facs="tcp:29999:38"/>Texts of Scripture, by <hi>William Whita<g ref="char:EOLhyphen"/>aker.</hi>
+               </p>
+               <p>The Saints care for Church Commu<g ref="char:EOLhyphen"/>nion; declared in ſundry Sermons, preach<g ref="char:EOLhyphen"/>ed at St. <hi>James Dukes-place,</hi> by <hi>Zech. Crofton.</hi>
+               </p>
+               <p>The liſe and death of <hi>Edmund Stanton</hi> D. D. To which is added a Treatiſe of Chriſtian Conference; and a Dialogue between a Miniſter and a Stranger.</p>
+               <p>Sin the Plague of plagues, or ſinful ſin the worſt of Evils; by <hi>Ralph Venning.</hi> M. A.</p>
+               <p>Caſes of Conſcience practically reſolv<g ref="char:EOLhyphen"/>ed; by <hi>J. Norman.</hi>
+               </p>
+               <p>The Faithfulneſs of God conſidered and cleared in the great Events of his Word; or a ſecond part of the fulfilling of the Scripture.</p>
+               <p>The Immortality of the Soul explained and proved by Scripture and Reaſon; to which is added Faiths-triumph over the fears of Death; by <hi>Tho. Wadſworth.</hi>
+               </p>
+               <p>A Treaſtiſe of the incomparableneſs of God, in his Being, Attributes, Works, and Word; by <hi>George Swinnock,</hi> M. A.</p>
+               <p>A Diſcourſe of the Original, <hi>&amp;c.</hi> of the <hi>Coſſacks.</hi>
+               </p>
+               <p>The Generation of Seekers; or the right manner of the Saints Addreſſes to
+<pb facs="tcp:29999:39"/>the Throne of Grace, with an Expoſition on the Lord's-Prayer.</p>
+               <p>The Adminiſtration of Cardin. <hi>Ximenes.</hi>
+               </p>
+               <p>An Eſſay to facilitate the Education of Youth, by bringing down the Rudiments of Grammar to the ſenſe of ſeeing, which ought to be improved by <hi>Syncriſis;</hi> by Mr. <hi>Lewis</hi> of <hi>Totenham.</hi>
+               </p>
+               <p>An Artificial Veſtibulum; wherein the ſenſe of <hi>Janua Linguarum</hi> is contained, compiled into plain and ſhort Sentences, in Engliſh, for the great eaſe of Maſters, and Expeditious progreſs of Scholars; by Mr. <hi>Lewis.</hi>
+               </p>
+               <p>
+                  <hi>Speculum Sherlockianum,</hi> or a Looking-glaſs, in which the Admirers of Mr. <hi>Sher<g ref="char:EOLhyphen"/>lock,</hi> may behold the man, as to his Acu<g ref="char:EOLhyphen"/>racy, Judgment, Orthodoxy.</p>
+               <p>A Diſcourſe of Sins of Omiſſion; wherein is diſcovered their Nature, Cau<g ref="char:EOLhyphen"/>ſes, and Cure; by <hi>George Swinnock.</hi>
+               </p>
+               <p>His Majeſties Propriety in the <hi>Britiſh</hi> Seas vindicated.</p>
+               <p>Differences about Water-Baptiſm no bar to Communion; by <hi>John Bunyan.</hi>
+               </p>
+               <p>The <hi>Dutch</hi>-Diſpenſatory; ſhewing the virtues, qualities and properties of Simples; the vertue and uſe of Compounds; where<g ref="char:EOLhyphen"/>to is added the Compleat Herbaliſt.</p>
+               <p>
+                  <hi>Hurſt</hi> Revival Grace.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
